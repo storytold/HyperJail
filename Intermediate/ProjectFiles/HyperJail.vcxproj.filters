@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HyperJail.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HyperJail.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HyperJailEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\README.md" />
+    <None Include="..\..\SkeletonRemap.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HyperJail">
+      <UniqueIdentifier>{042CC8BB-38DD-33A4-A1E2-4FB69907BA71}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HyperJail\HyperJail.Build.cs">
+      <Filter>Source\HyperJail</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HyperJail\HyperJail.cpp">
+      <Filter>Source\HyperJail</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperJail\HyperJail.h">
+      <Filter>Source\HyperJail</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HyperJail\HyperJailGameModeBase.cpp">
+      <Filter>Source\HyperJail</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperJail\HyperJailGameModeBase.h">
+      <Filter>Source\HyperJail</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
