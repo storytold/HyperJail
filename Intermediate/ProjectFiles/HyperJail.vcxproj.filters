@@ -36,12 +36,6 @@
     <Filter Include="Source\HyperJail">
       <UniqueIdentifier>{042CC8BB-38DD-33A4-A1E2-4FB69907BA71}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\HyperJail\CentaurChatGPT.cpp">
-      <Filter>Source\HyperJail</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\HyperJail\CentaurChatGPT.h">
-      <Filter>Source\HyperJail</Filter>
-    </ClInclude>
     <None Include="..\..\Source\HyperJail\HyperJail.Build.cs">
       <Filter>Source\HyperJail</Filter>
     </None>
