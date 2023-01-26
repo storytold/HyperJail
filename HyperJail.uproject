@@ -65,16 +65,6 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
-		},
-		{
-			"Name": "YnnkVoiceLipsync",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2d26886016024a6f870c03faee3ad696",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android",
-				"HoloLens"
-			]
 		}
 	]
 }
